@@ -62,8 +62,10 @@ Based on the insights, the following recommendations are proposed to drive busin
 
 The project submission includes the following files:
 
+* `Amazon_Project`: The source file for the Power BI dashboard Zipped File.
 * `Amazon_Sales_Analysis_By_Anjusri.pbix`: The source file for the Power BI dashboard.
 * `Amazon_Sales_Dashboard_Report.pdf`: An exported PDF version of the dashboard.
 * `Amazon_Sales_Analysis_Documentation_Anjusri.pdf`: A summary of the project documentation.
+* `Amazon Sales Analysis and Business Insights Dashboard`: A png form of the project.
 
 *This project was created as part of the InnoByte Services Internship Program and uses real Amazon sales transaction data to provide executive-level reporting and strategic business insights.
